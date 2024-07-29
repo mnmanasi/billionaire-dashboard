@@ -90,16 +90,16 @@ To deploy this project on a live system, you can use services like Heroku, AWS, 
 * [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis
 * [Plotly](https://plotly.com/python/) - Data visualization
 
-## Dataset
+## Datasets
 
-This project uses the Billionaires Statistics Dataset 2023 and Global Country Information Dataset 2023 obtained from [Kaggle](https://www.kaggle.com/). The dataset contains information about billionaires around the world, including their demographics, wealth sources, and other relevant details.
+This project uses the Billionaires Statistics Dataset 2023 and Global Country Information Dataset 2023 obtained from [Kaggle](https://www.kaggle.com/). The Billionaires Statistics Dataset 2023 contains information about billionaires around the world, including their demographics, wealth sources, and other relevant details. The Global Country Information Dataset 2023 contains information regarding economic indicators, environmental factors, healthcare metrics, and more about all the nations in the world.
 
 ### Source
 - [Billionaires Statistics Dataset 2023](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)
 - [Global Country Information Dataset 2023](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023?resource=download)
 
 ### Description
-The dataset includes various attributes about billionaires such as name, net worth, age, industry, and country of citizenship. It is used to analyze trends and patterns among the world's wealthiest individuals.
+The first dataset includes various attributes about billionaires such as name, net worth, age, industry, and country of citizenship. It is used to analyze trends and patterns among the world's wealthiest individuals. The second dataset covers a wide range of indicators and attributes for all 195 countries, and it is used to enable in-depth analyses and cross-country comparisons. 
 
 ### Citation and Usage Rights
 Please refer to the Billionaire dataset's [Kaggle page](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset) and the Gloabl Country dataset's [Kaggle page](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023?resource=download) for any citation, usage rights, or license information.
