@@ -8,11 +8,12 @@ from scripts import data_visualizations as dv
 app = dash.Dash(__name__, url_base_pathname='/dashboard/')
 server = app.server
 
-df = pd.read_csv('data/Billionaires Statistics Dataset.csv')
+bill_df = pd.read_csv('data/Billionaires Statistics Dataset.csv')
+world_df = pd.read_csv('word-data-2023.csv')
 
 # perform data processing
-df1 = dp.categoryWorths(df)
-df2, df2_pivoted, df2_top25 = dp.demoComparison(df)
+df1 = dp.categoryWorths(bill_df)
+df2, df2_pivoted, df2_top25 = dp.demoComparison(bill_df)
 df2_top25.reset_index(inplace=True)
 
 # create visualizations
