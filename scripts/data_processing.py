@@ -1,6 +1,6 @@
 import pandas as pd
 
-def categoryWorths(df):
+def industryWorths(df):
     cat_sum_worth = df.groupby('category')['finalWorth'].sum().reset_index()
     return cat_sum_worth
 
