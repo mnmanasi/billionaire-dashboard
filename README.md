@@ -1,6 +1,6 @@
-# Global Billionaire Dashboard
+# Global Economy Dashboard
 
-An interactive data dashboard designed to visualize and analyze data about billionaires around the world. The project focuses on categories, demographics, and other relevant metrics.
+An interactive data dashboard designed to visualize data analysis on billionaires and the economy around the world. The project focuses on categories, demographics, and other relevant metrics.
 
 ## Getting Started
 
@@ -104,19 +104,9 @@ The first dataset includes various attributes about billionaires such as name, n
 ### Citation and Usage Rights
 Please refer to the Billionaire dataset's [Kaggle page](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset) and the Global Country dataset's [Kaggle page](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023?resource=download) for any citation, usage rights, or license information.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on my code of conduct, and the process for submitting pull requests to me.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yourusername/global-billionaire-dashboard/tags). 
-
 ## Authors
 
-* **Manasi Mangalvedhe** - *Initial work* - [mnmanasi](https://github.com/mnmanasi)
-
-See also the list of [contributors](https://github.com/yourusername/global-billionaire-dashboard/contributors) who participated in this project.
+* **Manasi Mangalvedhe** - [mnmanasi](https://github.com/mnmanasi)
 
 ## License
 
