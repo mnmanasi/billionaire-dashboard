@@ -2,6 +2,10 @@
 
 An interactive data dashboard designed to visualize data analysis on billionaires and the economy around the world. The project focuses on categories, demographics, and other relevant metrics.
 
+![image](https://github.com/user-attachments/assets/aefa5485-bde0-4d1c-891f-0c1aaa3edcab)
+![image](https://github.com/user-attachments/assets/f4281055-6152-4b62-94cd-9fedbc401c14)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
